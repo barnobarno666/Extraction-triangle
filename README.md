@@ -112,8 +112,7 @@ This is particularly useful for:
 - Selectivity and efficiency mapping
 
 ## Documentation
-
-For detailed documentation and examples, visit: [Documentation Link]
+There should be a documentation i think 
 
 ## License
 
